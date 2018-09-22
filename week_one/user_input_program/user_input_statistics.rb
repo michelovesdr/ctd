@@ -3,7 +3,7 @@ def main
   # we need an array to store our data
   
   # how do we assign an array to a variable?
-  
+  sharks = ["Hammerhead", "Great White", "Tiger"]
   loop do
       
     # continue to ask for a number
